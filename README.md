@@ -5,7 +5,7 @@ Problem Statement : Sales predictions summary for the upcoming month by product 
 • Why this question is important Retailers can analyze the historical sales data, sales trends and consumer behavior to accurately Forecast demand. This minimizes overstock or understock situations while ensuring customers Find what they want. Better supply chain management
 
 Link to Jupyter Notebook :
-https://github.com/chandtr/CapstoneProject/blob/master/SalesPrediction.ipynb
+https://github.com/chandtr/DemandForecasting/blob/master/SalesPrediction.ipynb
 
 **How to run this notebook :**
 
